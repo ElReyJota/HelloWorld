@@ -14,7 +14,6 @@ You can watch a short demo of my project here: [HelloWorld Demo Video](https://y
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Working with Github in VS Code](https://code.visualstudio.com/docs/editor/github)
 * [Python 3.12.3 Ref Manual](https://docs.python.org/3/library/index.html)
