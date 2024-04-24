@@ -4,7 +4,7 @@ Test project of a typical hello world program that prints it on the terminal mad
 
 Simple test project to make sure I understand and can follow the necessary steps to work with Git through an IDE in the python programming language and can upload the necessary files that would normally go with any project.
 
-[HelloWorld Demo Video](https://youtu.be/jthR0Ooeh34)
+You can watch a short demo of my project here: [HelloWorld Demo Video](https://youtu.be/jthR0Ooeh34)
 
 # Development Environment
 
